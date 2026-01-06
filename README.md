@@ -1,7 +1,9 @@
 # AI-Driven Construction Risk Management: Predictive Modeling for Project Delays
 
 ## 🚀 Research Overview
-This repository contains the R-based implementation for a Master's thesis study titled **"AI Models for Construction Risk Management"**. The project aims to enhance decision-making in the construction industry by comparing three advanced Machine Learning architectures to predict project delays and classify risk categories.
+This repository contains the R-based implementation for a Master's thesis study titled **"Artificial Intelligence for Risk Management
+in Residential Construction
+"**. The project aims to enhance decision-making in the construction industry by comparing three advanced Machine Learning architectures to predict project delays and classify risk categories.
 
 ## 🛠️ Methodology & Models
 [span_0](start_span)The framework processes 120 construction projects[span_0](end_span) [span_1](start_span)using an 80/20 train-test split[span_1](end_span). Three models were rigorously evaluated:
