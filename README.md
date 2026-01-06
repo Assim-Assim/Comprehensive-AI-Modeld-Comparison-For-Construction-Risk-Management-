@@ -40,6 +40,6 @@ Analysis identified the top three most influential construction risk factors:
 ## 📜 Citation & Research Integrity
 This research maintains the highest standards of scientific integrity. All results are derived from real project data with strict separation between training and testing sets to prevent data leakage.
 
-**Author:** [Your Name]  
-**Institution:** [Your University]  
+**Author:** [Layth Al-Khalidi]  
+**Institution:** [Iran University of Science and Technology]  
 **[span_13](start_span)Date:** January 2026[span_13](end_span)
